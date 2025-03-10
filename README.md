@@ -1,0 +1,2 @@
+# mencoba-memahami-github
+latihan 
