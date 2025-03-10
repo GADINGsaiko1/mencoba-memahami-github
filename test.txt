@@ -1,5 +1,5 @@
-latihan github commit 
-coba1
-coba2
-coba3
-coba4
+alur saya dalam mempelajari github
+1. memahami jargon / sebutan khusus yang ada di github
+2. memahami bagaimana caranya commit 
+3. mempelajari branch
+4. mempelajari bagaimana caranya menggabungkan branch (merge)
