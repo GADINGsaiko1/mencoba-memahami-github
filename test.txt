@@ -1,5 +1,7 @@
 alur saya dalam mempelajari github
 1. memahami jargon / sebutan khusus yang ada di github
-2. memahami bagaimana caranya commit 
+  - repository = file / folder
+2. memahami bagaimana caranya commit
 3. mempelajari branch
 4. mempelajari bagaimana caranya menggabungkan branch (merge)
+5. mencoba praktek team work menggunakan github
