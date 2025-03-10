@@ -3,5 +3,13 @@ alur saya dalam mempelajari github
   - repository = file / folder
 2. memahami bagaimana caranya commit
 3. mempelajari branch
+  - branch utama adalah branch main / master 
+  - kita bisa menambahkan branch yang nantinya akan menjadi anak dari branch lain
 4. mempelajari bagaimana caranya menggabungkan branch (merge)
-5. mencoba praktek team work menggunakan github
+5. mencoba peaktek team work 
+
+
+catatan:
+-repository privat hanya bisa dikembangkan oleh maksimal 3 distributor
+-saat akan commit harus menambahkan pesan 
+
