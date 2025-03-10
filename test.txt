@@ -2,4 +2,12 @@ alur saya dalam mempelajari github
 1. memahami jargon / sebutan khusus yang ada di github
 2. memahami bagaimana caranya commit 
 3. mempelajari branch
+  - branch utama adalah branch main / master 
+  - kita bisa menambahkan branch yang nantinya akan menjadi anak dari branch lain
 4. mempelajari bagaimana caranya menggabungkan branch (merge)
+
+
+
+catatan:
+-repository privat hanya bisa dikembangkan oleh maksimal 3 distributor
+-saat akan commit harus menambahkan pesan 
