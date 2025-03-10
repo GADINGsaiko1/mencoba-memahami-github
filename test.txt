@@ -2,4 +2,3 @@ latihan github commit
 coba1
 coba2
 coba3
-dah
